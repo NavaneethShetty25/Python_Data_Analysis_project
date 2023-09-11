@@ -7,3 +7,6 @@ Projects includes steps like:
 * Data Analysing
 * Data Visualization
 * Insights
+
+## Conclusion
+Married women age group 26-35 yrs from Uttar Pradesh, Maharastra and Karnataka working in IT, Aviation and Healthcare are more likely to buy products from Food, Clothing and Electronics category.
