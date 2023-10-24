@@ -8,7 +8,11 @@ Objective:
 
 Improve customer experience by analysing sales data
 
+
+
 Projects includes steps like:
+*
+*Importing data
 * Data Cleaning
 * Data Processing
 * Data Analysing
