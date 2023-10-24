@@ -9,13 +9,12 @@ Objective:
 Improve customer experience by analysing sales data
 
 
-
 Projects includes steps like:
-*
-*Importing data
-* Data Cleaning
+* Importing libraries(Numpy, Pandas, Matplotlib and Seaborn)
+* Importing data
+* Data Cleaning (Null, Duplicates, Rename, etc)
 * Data Processing
-* Data Analysing
+* Exploratory Data Analysis
 * Data Visualization
 * Insights
 
